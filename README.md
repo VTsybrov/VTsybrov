@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**VTsybrov/VTsybrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+![Vladimirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTsybrov&count_private=true&show_icons=true)
 
-Here are some ideas to get you started:
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VTsybrov&layout=compact&exclude_repo=VTsybrov.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
